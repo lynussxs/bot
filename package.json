@@ -1,16 +1,12 @@
 {
-  "name": "discord-music-bot",
+  "name": "discord-bot",
   "version": "1.0.0",
-  "description": "simple discord music bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^14.15.0",
-    "@discordjs/voice": "^0.16.0",
-    "play-dl": "^1.9.6",
-    "dotenv": "^16.4.0",
-    "@discordjs/opus": "^0.9.0"
+    "dotenv": "^16.4.0"
   }
 }
